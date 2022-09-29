@@ -1,0 +1,27 @@
+09/24/22 17:27
+
+Problem 1 (7 points):
+Score += 7
+
+Problem 2 (7 points):
+Score += 7
+
+Problem 3 (7 points):
+Score += 7
+
+Problem 4 (14 points):
+Score += 14
+
+Problem 5 (10 points):
+Incorrect graph; some variables in the ODE are swapped around
+Score += 8
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
